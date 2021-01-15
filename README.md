@@ -4,6 +4,7 @@ This is the Driver to use the uCamIII (UART camera) with a raspberry PI written 
 ## Architecture
 
 Here is the architecture of the driver **after being built**. You can find in the bin folder a test binary and in the libs folder the static library of the driver.
+```console
 .
 ├── bin
 │   └── test
@@ -17,6 +18,7 @@ Here is the architecture of the driver **after being built**. You can find in th
 ├── src
 │   └── uCamIII_driver.c
 └── test.c
+```
 
 ## Execution
 
